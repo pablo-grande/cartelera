@@ -1,0 +1,153 @@
+BEGIN:VCALENDAR
+X-WR-TIMEZONE:Europe/Madrid
+BEGIN:VEVENT
+SUMMARY:Cine: Todo a la vez en todas partes
+DTSTART;VALUE=DATE-TIME:20220802T200000
+DESCRIPTION:https://salaequis.es/taquilla/
+LOCATION:SALA EQUIS\, C. del Duque de Alba\, 4\, 28012 Madrid
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Cine: Ennio\, el maestro
+DTSTART;VALUE=DATE-TIME:20220803T200000
+DESCRIPTION:https://salaequis.es/taquilla/
+LOCATION:SALA EQUIS\, C. del Duque de Alba\, 4\, 28012 Madrid
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Cine: Alcarràs
+DTSTART;VALUE=DATE-TIME:20220804T200000
+DESCRIPTION:https://salaequis.es/taquilla/
+LOCATION:SALA EQUIS\, C. del Duque de Alba\, 4\, 28012 Madrid
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Cine: La peor persona del mundo
+DTSTART;VALUE=DATE-TIME:20220805T200000
+DESCRIPTION:https://salaequis.es/taquilla/
+LOCATION:SALA EQUIS\, C. del Duque de Alba\, 4\, 28012 Madrid
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Cine: Licorice pizza
+DTSTART;VALUE=DATE-TIME:20220806T200000
+DESCRIPTION:https://salaequis.es/taquilla/
+LOCATION:SALA EQUIS\, C. del Duque de Alba\, 4\, 28012 Madrid
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Cine: Elvis
+DTSTART;VALUE=DATE-TIME:20220807T193000
+DESCRIPTION:https://salaequis.es/taquilla/
+LOCATION:SALA EQUIS\, C. del Duque de Alba\, 4\, 28012 Madrid
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Cine: La cosa
+DTSTART;VALUE=DATE-TIME:20220809T200000
+DESCRIPTION:https://salaequis.es/taquilla/
+LOCATION:SALA EQUIS\, C. del Duque de Alba\, 4\, 28012 Madrid
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Cine: Licorice pizza
+DTSTART;VALUE=DATE-TIME:20220810T200000
+DESCRIPTION:https://salaequis.es/taquilla/
+LOCATION:SALA EQUIS\, C. del Duque de Alba\, 4\, 28012 Madrid
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Cine: Ninja baby
+DTSTART;VALUE=DATE-TIME:20220811T200000
+DESCRIPTION:https://salaequis.es/taquilla/
+LOCATION:SALA EQUIS\, C. del Duque de Alba\, 4\, 28012 Madrid
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Cine: Cinco lobitos
+DTSTART;VALUE=DATE-TIME:20220812T200000
+DESCRIPTION:https://salaequis.es/taquilla/
+LOCATION:SALA EQUIS\, C. del Duque de Alba\, 4\, 28012 Madrid
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Cine: Todo a la vez en todas partes
+DTSTART;VALUE=DATE-TIME:20220813T200000
+DESCRIPTION:https://salaequis.es/taquilla/
+LOCATION:SALA EQUIS\, C. del Duque de Alba\, 4\, 28012 Madrid
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Cine: Elvis
+DTSTART;VALUE=DATE-TIME:20220814T193000
+DESCRIPTION:https://salaequis.es/taquilla/
+LOCATION:SALA EQUIS\, C. del Duque de Alba\, 4\, 28012 Madrid
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Cine: Ennio\, el maestro
+DTSTART;VALUE=DATE-TIME:20220816T200000
+DESCRIPTION:https://salaequis.es/taquilla/
+LOCATION:SALA EQUIS\, C. del Duque de Alba\, 4\, 28012 Madrid
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Cine: Red rocket
+DTSTART;VALUE=DATE-TIME:20220817T200000
+DESCRIPTION:https://salaequis.es/taquilla/
+LOCATION:SALA EQUIS\, C. del Duque de Alba\, 4\, 28012 Madrid
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Cine: La peor persona del mundo
+DTSTART;VALUE=DATE-TIME:20220818T200000
+DESCRIPTION:https://salaequis.es/taquilla/
+LOCATION:SALA EQUIS\, C. del Duque de Alba\, 4\, 28012 Madrid
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Cine: Elvis
+DTSTART;VALUE=DATE-TIME:20220819T193000
+DESCRIPTION:https://salaequis.es/taquilla/
+LOCATION:SALA EQUIS\, C. del Duque de Alba\, 4\, 28012 Madrid
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Cine: Todo el mundo odia a
+DTSTART;VALUE=DATE-TIME:20220820T203000
+DESCRIPTION:https://salaequis.es/taquilla/
+LOCATION:SALA EQUIS\, C. del Duque de Alba\, 4\, 28012 Madrid
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Cine: El club de los cinco
+DTSTART;VALUE=DATE-TIME:20220821T200000
+DESCRIPTION:https://salaequis.es/taquilla/
+LOCATION:SALA EQUIS\, C. del Duque de Alba\, 4\, 28012 Madrid
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Cine: Alien\, el octavo pasajero
+DTSTART;VALUE=DATE-TIME:20220823T200000
+DESCRIPTION:https://salaequis.es/taquilla/
+LOCATION:SALA EQUIS\, C. del Duque de Alba\, 4\, 28012 Madrid
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Cine: Todo el mundo odia a johan
+DTSTART;VALUE=DATE-TIME:20220824T200000
+DESCRIPTION:https://salaequis.es/taquilla/
+LOCATION:SALA EQUIS\, C. del Duque de Alba\, 4\, 28012 Madrid
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Cine: Elvis
+DTSTART;VALUE=DATE-TIME:20220825T193000
+DESCRIPTION:https://salaequis.es/taquilla/
+LOCATION:SALA EQUIS\, C. del Duque de Alba\, 4\, 28012 Madrid
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Cine: Todo el mundo odia a
+DTSTART;VALUE=DATE-TIME:20220826T203000
+DESCRIPTION:https://salaequis.es/taquilla/
+LOCATION:SALA EQUIS\, C. del Duque de Alba\, 4\, 28012 Madrid
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Cine: Cinco lobitos
+DTSTART;VALUE=DATE-TIME:20220828T200000
+DESCRIPTION:https://salaequis.es/taquilla/
+LOCATION:SALA EQUIS\, C. del Duque de Alba\, 4\, 28012 Madrid
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Cine: Vortex
+DTSTART;VALUE=DATE-TIME:20220830T200000
+DESCRIPTION:https://salaequis.es/taquilla/
+LOCATION:SALA EQUIS\, C. del Duque de Alba\, 4\, 28012 Madrid
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Cine: Vortex
+DTSTART;VALUE=DATE-TIME:20220831T200000
+DESCRIPTION:https://salaequis.es/taquilla/
+LOCATION:SALA EQUIS\, C. del Duque de Alba\, 4\, 28012 Madrid
+END:VEVENT
+END:VCALENDAR

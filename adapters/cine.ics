@@ -1,0 +1,214 @@
+BEGIN:VCALENDAR
+X-WR-TIMEZONE:Europe/Madrid
+BEGIN:VEVENT
+SUMMARY:Cine: El guateque
+DTSTART;VALUE=DATE-TIME:20220807T220000
+DESCRIPTION:https://www.cibelesdecine.com/es/detalles/228/el-guateque
+LOCATION:Plaza Cibeles\, 1A\, 28014 Madrid
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Cine: El poder del perro
+DTSTART;VALUE=DATE-TIME:20220808T220000
+DESCRIPTION:https://www.cibelesdecine.com/es/detalles/197/el-poder-del-per
+ ro
+LOCATION:Plaza Cibeles\, 1A\, 28014 Madrid
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Cine: El buen patrón
+DTSTART;VALUE=DATE-TIME:20220809T220000
+DESCRIPTION:https://www.cibelesdecine.com/es/detalles/258/el-buen-patron
+LOCATION:Plaza Cibeles\, 1A\, 28014 Madrid
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Cine: El padrino (50 aniversario)
+DTSTART;VALUE=DATE-TIME:20220810T220000
+DESCRIPTION:https://www.cibelesdecine.com/es/detalles/219/el-padrino-50-an
+ iversario
+LOCATION:Plaza Cibeles\, 1A\, 28014 Madrid
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Cine: Spencer
+DTSTART;VALUE=DATE-TIME:20220811T220000
+DESCRIPTION:https://www.cibelesdecine.com/es/detalles/190/spencer
+LOCATION:Plaza Cibeles\, 1A\, 28014 Madrid
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Cine: Top gun maverick
+DTSTART;VALUE=DATE-TIME:20220812T220000
+DESCRIPTION:https://www.cibelesdecine.com/es/detalles/193/top-gun-maverick
+LOCATION:Plaza Cibeles\, 1A\, 28014 Madrid
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Cine: Grease
+DTSTART;VALUE=DATE-TIME:20220813T220000
+DESCRIPTION:https://www.cibelesdecine.com/es/detalles/235/grease
+LOCATION:Plaza Cibeles\, 1A\, 28014 Madrid
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Cine: Footloose
+DTSTART;VALUE=DATE-TIME:20220814T220000
+DESCRIPTION:https://www.cibelesdecine.com/es/detalles/232/footloose
+LOCATION:Plaza Cibeles\, 1A\, 28014 Madrid
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Cine: Licorice pizza
+DTSTART;VALUE=DATE-TIME:20220815T220000
+DESCRIPTION:https://www.cibelesdecine.com/es/detalles/192/licorice-pizza
+LOCATION:Plaza Cibeles\, 1A\, 28014 Madrid
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Cine: Cinema paradiso
+DTSTART;VALUE=DATE-TIME:20220816T220000
+DESCRIPTION:https://www.cibelesdecine.com/es/detalles/220/cinema-paradiso
+LOCATION:Plaza Cibeles\, 1A\, 28014 Madrid
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Cine: Red rocket
+DTSTART;VALUE=DATE-TIME:20220817T220000
+DESCRIPTION:https://www.cibelesdecine.com/es/detalles/210/red-rocket
+LOCATION:Plaza Cibeles\, 1A\, 28014 Madrid
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Cine: West side story
+DTSTART;VALUE=DATE-TIME:20220818T220000
+DESCRIPTION:https://www.cibelesdecine.com/es/detalles/252/west-side-story
+LOCATION:Plaza Cibeles\, 1A\, 28014 Madrid
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Cine: La casa gucci
+DTSTART;VALUE=DATE-TIME:20220819T220000
+DESCRIPTION:https://www.cibelesdecine.com/es/detalles/250/la-casa-gucci
+LOCATION:Plaza Cibeles\, 1A\, 28014 Madrid
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Cine: Lightyear
+DTSTART;VALUE=DATE-TIME:20220820T220000
+DESCRIPTION:https://www.cibelesdecine.com/es/detalles/263/lightyear
+LOCATION:Plaza Cibeles\, 1A\, 28014 Madrid
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Cine: Con faldas y a lo loco
+DTSTART;VALUE=DATE-TIME:20220821T220000
+DESCRIPTION:https://www.cibelesdecine.com/es/detalles/236/con-faldas-y-a-l
+ o-loco
+LOCATION:Plaza Cibeles\, 1A\, 28014 Madrid
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Cine: Belfast
+DTSTART;VALUE=DATE-TIME:20220822T220000
+DESCRIPTION:https://www.cibelesdecine.com/es/detalles/221/belfast
+LOCATION:Plaza Cibeles\, 1A\, 28014 Madrid
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Cine: Bullet  train
+DTSTART;VALUE=DATE-TIME:20220823T220000
+DESCRIPTION:https://www.cibelesdecine.com/es/detalles/264/bullet-train
+LOCATION:Plaza Cibeles\, 1A\, 28014 Madrid
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Cine: Cinco lobitos
+DTSTART;VALUE=DATE-TIME:20220824T220000
+DESCRIPTION:https://www.cibelesdecine.com/es/detalles/255/cinco-lobitos
+LOCATION:Plaza Cibeles\, 1A\, 28014 Madrid
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Cine: La peor persona del mundo
+DTSTART;VALUE=DATE-TIME:20220825T220000
+DESCRIPTION:https://www.cibelesdecine.com/es/detalles/186/la-peor-persona-
+ del-mundo
+LOCATION:Plaza Cibeles\, 1A\, 28014 Madrid
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Cine: Elvis
+DTSTART;VALUE=DATE-TIME:20220826T220000
+DESCRIPTION:https://www.cibelesdecine.com/es/detalles/248/elvis
+LOCATION:Plaza Cibeles\, 1A\, 28014 Madrid
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Cine: Voy a pasarmelo bien
+DTSTART;VALUE=DATE-TIME:20220827T220000
+DESCRIPTION:https://www.cibelesdecine.com/es/detalles/231/voy-a-pasarmelo-
+ bien
+LOCATION:Plaza Cibeles\, 1A\, 28014 Madrid
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Cine: Desayuno con diamantes
+DTSTART;VALUE=DATE-TIME:20220828T220000
+DESCRIPTION:https://www.cibelesdecine.com/es/detalles/238/desayuno-con-dia
+ mantes
+LOCATION:Plaza Cibeles\, 1A\, 28014 Madrid
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Cine: No mires arriba
+DTSTART;VALUE=DATE-TIME:20220829T220000
+DESCRIPTION:https://www.cibelesdecine.com/es/detalles/245/no-mires-arriba
+LOCATION:Plaza Cibeles\, 1A\, 28014 Madrid
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Cine: Downton abbey: una nueva era
+DTSTART;VALUE=DATE-TIME:20220830T220000
+DESCRIPTION:https://www.cibelesdecine.com/es/detalles/222/downton-abbey-un
+ a-nueva-era
+LOCATION:Plaza Cibeles\, 1A\, 28014 Madrid
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Cine: El hombre del norte
+DTSTART;VALUE=DATE-TIME:20220831T220000
+DESCRIPTION:https://www.cibelesdecine.com/es/detalles/246/el-hombre-del-no
+ rte
+LOCATION:Plaza Cibeles\, 1A\, 28014 Madrid
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Cine: 1997: rescate en nueva york
+DTSTART;VALUE=DATE-TIME:20220901T220000
+DESCRIPTION:https://www.cibelesdecine.com/es/detalles/239/1997-rescate-en-
+ nueva-york
+LOCATION:Plaza Cibeles\, 1A\, 28014 Madrid
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Cine: Todo a la vez en todas partes
+DTSTART;VALUE=DATE-TIME:20220902T220000
+DESCRIPTION:https://www.cibelesdecine.com/es/detalles/251/todo-a-la-vez-en
+ -todas-partes
+LOCATION:Plaza Cibeles\, 1A\, 28014 Madrid
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Cine: ¿quien engaño a robert rabbit?
+DTSTART;VALUE=DATE-TIME:20220903T220000
+DESCRIPTION:https://www.cibelesdecine.com/es/detalles/240/quien-engano-a-r
+ obert-rabbit
+LOCATION:Plaza Cibeles\, 1A\, 28014 Madrid
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Cine: Cinco lobitos
+DTSTART;VALUE=DATE-TIME:20220904T220000
+DESCRIPTION:https://www.cibelesdecine.com/es/detalles/256/cinco-lobitos
+LOCATION:Plaza Cibeles\, 1A\, 28014 Madrid
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Cine: Alien: el octavo pasajero
+DTSTART;VALUE=DATE-TIME:20220905T220000
+DESCRIPTION:https://www.cibelesdecine.com/es/detalles/241/alien-el-octavo-
+ pasajero
+LOCATION:Plaza Cibeles\, 1A\, 28014 Madrid
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Cine: Elvis
+DTSTART;VALUE=DATE-TIME:20220906T220000
+DESCRIPTION:https://www.cibelesdecine.com/es/detalles/249/elvis
+LOCATION:Plaza Cibeles\, 1A\, 28014 Madrid
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Cine: Bullet train
+DTSTART;VALUE=DATE-TIME:20220907T220000
+DESCRIPTION:https://www.cibelesdecine.com/es/detalles/247/bullet-train
+LOCATION:Plaza Cibeles\, 1A\, 28014 Madrid
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Cine: Cinetronik: nosferatu + daniel van lion live show
+DTSTART;VALUE=DATE-TIME:20220908T220000
+DESCRIPTION:https://www.cibelesdecine.com/es/detalles/242/cinetronik-nosfe
+ ratu--daniel-van-lion-live-show
+LOCATION:Plaza Cibeles\, 1A\, 28014 Madrid
+END:VEVENT
+END:VCALENDAR
